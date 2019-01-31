@@ -15,3 +15,4 @@ git file status practice
 6 modifying Readme.md check file status
 
 test 2 newLine 
+test d 
