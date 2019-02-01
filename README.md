@@ -16,3 +16,4 @@ git file status practice
 
 test 2 newLine 
 test d 
+LAST1
